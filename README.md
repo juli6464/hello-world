@@ -28,7 +28,7 @@ Contacto:
 ### Hi there 👋
 
 
-**charlygarcia120/charlygarcia120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**juli6464/juli6464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
